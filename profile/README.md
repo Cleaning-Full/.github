@@ -79,8 +79,8 @@ nuestros precios son los siguientes:
 
 |Paquete|Cantidad|Detalle de horas|Precio mensual|
 |-|-|-|-|
-|Full|1|Personal de 4 horas de lunes a sábado (Horario a definir por el cliente) |Bs.4000|
-|Standar|1|Personal de 8 horas de lunes a sábado (Horario a definir por el cliente) |Bs2600|
+|Full|1|Personal de 8 horas de lunes a sábado (Horario a definir por el cliente) |Bs.4000|
+|Standar|1|Personal de 4 horas de lunes a sábado (Horario a definir por el cliente) |Bs2600|
 |Basico|1|Personal de 4 horas 3 veces por semana (Días a definir por el cliente)  |Bs.1600|
 
 Si tiene alguna consulta no dude en contactarse con nosotros, nos interesa
