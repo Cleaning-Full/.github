@@ -95,7 +95,7 @@ confianza son nuestra máxima prioridad.
 
 
 
-<img alt="" src="https://github.com/user-attachments/assets/61b84894-eda4-4ecb-8182-79b8ffe7d8f0" style='width:50px;height:50px;'/>
+<img alt="" src="https://github.com/user-attachments/assets/61b84894-eda4-4ecb-8182-79b8ffe7d8f0" style='width:250px;height:250px;'/>
 
 
 - **Atentamente,**
