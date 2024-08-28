@@ -77,11 +77,11 @@ personalizada a los detalles.
 Basados en los detalles específicos del servicio y las necesidades de limpieza,
 nuestros precios son los siguientes:
 
-|Cantidad|Detalle de horas|Precio mensual|
-|-|-|-|
-|1|Personal de 4 horas de lunes a sábado (Horario a definir por el cliente) |Bs. 2600|
-|1|Personal de 8 horas de lunes a sábado (Horario a definir por el cliente) |Bs. 4000|
-|1|Personal de 4 horas 3 veces por semana (Días a definir por el cliente)  |Bs. 2600|
+|Paquete|Cantidad|Detalle de horas|Precio mensual|
+|-|-|-|-|
+|Full|1|Personal de 4 horas de lunes a sábado (Horario a definir por el cliente) |Bs. 2600|
+|Basico|1|Personal de 8 horas de lunes a sábado (Horario a definir por el cliente) |Bs. 4000|
+|Standar|1|Personal de 4 horas 3 veces por semana (Días a definir por el cliente)  |Bs. 2600|
 
 Si tiene alguna consulta no dude en contactarse con nosotros, nos interesa
 saber como **CLEANING FULL** puede ser la elección ideal para usted.
