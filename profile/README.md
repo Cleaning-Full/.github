@@ -38,11 +38,11 @@ elección preferida para aquellos que valoran un entorno limpio y saludable.”
 
 ## Valores
 
-- *Excelencia:* Buscamos la perfección en cada tarea, manteniendo altos
+- **Excelencia:** Buscamos la perfección en cada tarea, manteniendo altos
 estándares de calidad en cada servicio.
-- *Compromiso:* Nos comprometemos a satisfacer las necesidades únicas de
+- **Compromiso:** Nos comprometemos a satisfacer las necesidades únicas de
 cada cliente, adaptándonos a sus requisitos específicos.
-- *Integridad:* Actuamos con honestidad Y transparencia en todas nuestras
+- **Integridad:** Actuamos con honestidad Y transparencia en todas nuestras
 interacciones y operaciones. Haciendo que nuestro personal cuente con su
 respectivo certificado de buena conducta expedido por la policía nacional
 
