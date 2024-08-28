@@ -98,10 +98,11 @@ confianza son nuestra máxima prioridad.
 <img alt="" src="https://github.com/user-attachments/assets/61b84894-eda4-4ecb-8182-79b8ffe7d8f0" style='width:250px;height:250px;'/>
 
 
-- **Atentamente,**
-- Alejandra Rodríguez
-- Gerente Propietaria, Cleaning Full
-- Cel: [+591 68842175](https://wa.me/+59168842175)
+**Atentamente,**
+
+<div>Alejandra Rodríguez</div>
+<div>Gerente Propietaria, Cleaning Full</div>
+<div>Cel: [+591 68842175](https://wa.me/+59168842175)</div>
 
 ![image](https://github.com/user-attachments/assets/f8e9009d-d76e-4957-a88a-c50fd56da53b)
 
