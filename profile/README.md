@@ -46,3 +46,17 @@ cada cliente, adaptándonos a sus requisitos específicos.
 interacciones y operaciones. Haciendo que nuestro personal cuente con su
 respectivo certificado de buena conducta expedido por la policía nacional
 
+## DESCRIPCIÓN DE SERVICIOS
+
+En Cleaning Full, ofrecemos servicios de limpieza de alta calidad diseñados
+para mantener su condominio en óptimas condiciones. Nuestros servicios
+incluyen:
+
+- Limpieza de áreas comunes: vestíbulos, pasillos, salas de estar y pasillos de estacionamiento.
+- Limpieza de ascensores y escaleras.
+- Limpieza de áreas exteriores: jardines y patios.
+- Gestión de desechos y reciclaje.
+- Limpieza de áreas de lavandería y cuartos de basura.
+- Servicios de limpieza especializados: limpieza de ventanas y limpieza a fondo de áreas comunes.
+- Limpieza y sanitización de baños.
+
