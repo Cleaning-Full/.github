@@ -99,4 +99,4 @@ confianza son nuestra máxima prioridad.
 - Gerente Propietaria, Cleaning Full
 - Cel: [+591 68842175](https://wa.me/+59168842175)
 
-![image](https://github.com/user-attachments/assets/4376e48c-9961-48a2-adb6-6f8a761ec540)
+![image](https://github.com/user-attachments/assets/f8e9009d-d76e-4957-a88a-c50fd56da53b)
