@@ -69,3 +69,24 @@ hacen de nuestro servicio la elección ideal. Nuestro profesionalismo y
 puntualidad en cada servicio marcan la diferencia, ofreciendo una atención
 personalizada a los detalles.
 
+## COTIZACIÓN
+
+Basados en los detalles específicos del servicio y las necesidades de limpieza,
+nuestros precios son los siguientes:
+
+|Cantidad|Detalle de horas|Precio mensual|
+|-|-|-|
+|1|Personal de 4 horas de lunes a sábado (Horario a definir por el cliente) |Bs. 2600|
+|1|Personal de 8 horas de lunes a sábado (Horario a definir por el cliente) |Bs. 4000|
+|1|Personal de 4 horas 3 veces por semana (Días a definir por el cliente)  |Bs. 2600|
+
+Si tiene alguna consulta no dude en contactarse con nosotros, nos interesa
+saber como **CLEANING FULL** puede ser la elección ideal para usted.
+
+## GARANTÍA DE SATISFACCIÓN DEL CLIENTE
+
+Nos enorgullece nuestra garantía de satisfacción del cliente. Si en algún
+momento no está completamente satisfecho con nuestro servicio, haremos
+todo lo posible para rectificar la situación de inmediato. Su tranquilidad y
+confianza son nuestra máxima prioridad.
+
