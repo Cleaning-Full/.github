@@ -77,7 +77,7 @@ personalizada a los detalles.
 Basados en los detalles específicos del servicio y las necesidades de limpieza,
 nuestros precios son los siguientes:
 
-|Paquete|Cantidad|Detalle_de_horas|Precio mensual|
+|Paquete|Detalle_de_horas|Precio mensual|
 |-|-|-|
 |Full|Personal de **8 horas de lunes a sábado** (Horario a definir por el cliente) |Bs.4000|
 |Standar|Personal de **4 horas de lunes a sábado** (Horario a definir por el cliente) |Bs2600|
