@@ -93,3 +93,8 @@ momento no está completamente satisfecho con nuestro servicio, haremos
 todo lo posible para rectificar la situación de inmediato. Su tranquilidad y
 confianza son nuestra máxima prioridad.
 
+
+**Atentamente,**
+Alejandra Rodríguez
+Gerente Propietaria, Cleaning Full
+Cel: [+591 68842175](https://wa.me/+59168842175)
