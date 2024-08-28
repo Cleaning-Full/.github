@@ -22,6 +22,9 @@ soluciones de limpieza perfectamente ajustadas a tu entorno.
 
 ## SOBRE NOSOTROS
 
+![file](https://github.com/user-attachments/assets/7a0cf9db-b149-490a-a4b4-e5fbbe2cb590)
+
+
 ### Misión
 
 “En Cleaning Full, nuestra misión es ofrecer soluciones de limpieza
