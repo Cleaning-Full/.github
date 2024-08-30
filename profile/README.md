@@ -79,8 +79,8 @@ nuestros precios son los siguientes:
 
 |Paquete|Detalle_de_horas|Precio mensual|
 |-|-|-|
-|Premium|Personal de **8 horas de lunes a sábado** (Horario a definir por el cliente) |Bs.4000/mes|
-|Full|Personal de **4 horas de lunes a sábado** (Horario a definir por el cliente) |Bs2800/mes|
+|Premium|Personal de **8 horas de lunes a sábado** para edificios (Horario a definir por el cliente) |Bs.4000/mes|
+|Full|Personal de **8 horas de lunes a sábado** para hogares (Horario a definir por el cliente) |Bs2800/mes|
 |Standar|Personal de **4 horas de lunes a sábado** (Horario a definir por el cliente) |Bs2600/mes|
 |Basico|Personal de **4 horas 3 veces por semana** (Días a definir por el cliente)  |Bs.1600/mes|
 |Día|Personal de **8 horas 1 día** |Bs.180|
