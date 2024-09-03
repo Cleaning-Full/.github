@@ -79,11 +79,10 @@ nuestros precios son los siguientes:
 
 |Paquete|Detalle_de_horas|Precio mensual|
 |-|-|-|
-|Premium|Personal de **8 horas de lunes a sábado** para edificios (Horario a definir por el cliente) |Bs.4000/mes|
-|Full|Personal de **8 horas de lunes a sábado** para hogares (Horario a definir por el cliente) |Bs2800/mes|
-|Standar|Personal de **4 horas de lunes a sábado** para hogares (Horario a definir por el cliente) |Bs2600/mes|
-|Basico|Personal de **4 horas 3 veces por semana** para hogares (Días a definir por el cliente)  |Bs.1600/mes|
-|Día|Personal de **8 horas 1 día** para hogares |Bs.180/día|
+|Full|Personal de **8 horas de lunes a  viernes sabado 4 horas**(Horario a definir por el cliente) |Bs4000/mes|
+|Standar|Personal **4 horas de lunes a sabado** (Horario a definir por el cliente)  |Bs2600/mes|
+|Basico|Personal de **4 horas 3 veces por semana** (Días a definir por el cliente)  |Bs.1600/mes|
+|Día| A eleccion de cliente Tiempo: **4 a 5 horas** |Bs.180/día|
 
 Si tiene alguna consulta no dude en contactarse con nosotros, nos interesa
 saber como **CLEANING FULL** puede ser la elección ideal para usted.
